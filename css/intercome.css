@@ -124,9 +124,6 @@ a.active,a.hover{
     left: 0;
   }
 
-  .footer h2{
-    font-size: 20px;
-  }
 
 }
 
@@ -143,12 +140,12 @@ a.active,a.hover{
 }
 
 .box{
-  width: 50%;
+  width: 30%;
   float: left;
 }
 
 .inbox{
-  width: 50%;
+  width: 70%;
   float: right;
 }
 
