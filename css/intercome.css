@@ -140,17 +140,26 @@ a.active,a.hover{
 }
 
 .box{
-  width: 30%;
+  width: 50%;
   float: left;
 }
 
+.box h3{
+  margin-left: 20px;
+}
+
+.box p{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 .inbox{
-  width: 70%;
+  width: 50%;
   float: right;
 }
 
 .inbox h3{
-  text-align: center;
+  margin-left: 20px;
 }
 
 .inbox p{
